@@ -9,7 +9,8 @@ An 8-bit Arithmetic Logic Unit implemented in Verilog HDL. Supports addition, su
 ## RTL Schematic
 
 <!-- STEP: Open a GitHub Issue in your repo → drag & drop rtl_schematic.png → copy the generated URL → paste it below replacing the placeholder -->
-![RTL Schematic](PASTE_RTL_SCHEMATIC_URL_HERE)
+![RTL Schematic](<img width="1159" height="581" alt="image" src="https://github.com/user-attachments/assets/a2078b57-8aa2-4d67-b8fa-ed07ac1f3a26" />
+)
 
 ---
 
